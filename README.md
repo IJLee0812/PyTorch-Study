@@ -14,3 +14,7 @@
 4. PyTorch_Review.ipynb : Wikidocs "PyTorch로 시작하는 딥 러닝 입문" 참고하여 기반이론 및 low-level 코딩 위주 재복습 진행('24.7.17 ~ '24.7.31)
 
 > References : https://wikidocs.net/book/2788
+
+5. PyTorch_RNN_Basics.ipynb : Wikidocs "PyTorch로 시작하는 딥 러닝 입문" 수록된 RNN, LSTM, GRU 기반이론 및 코딩 실습 진행('24.7.31 ~ '24.8.1)
+
+> References : https://wikidocs.net/60760
