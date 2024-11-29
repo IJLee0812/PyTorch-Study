@@ -18,3 +18,9 @@
 5. PyTorch_RNN_Basics.ipynb : Wikidocs "PyTorch로 시작하는 딥 러닝 입문" 수록된 RNN, LSTM, GRU 기반이론 및 코딩 실습 진행('24.7.31 ~ '24.8.1)
 
 > References : https://wikidocs.net/60760
+
+6. FT_Practice.ipynb : BERT를 🤗 Hugging face 라이브러리를 이용하여 파인튜닝 진행, 영문법 오류 분류기 모델 설계 실습 진행('24.11.28 ~ '24.11.29)
+
+> References : 
+> 1. https://huggingface.co/blog/peft 
+> 2. https://colab.research.google.com/github/Ankur3107/colab_notebooks/blob/master/classification/BERT_Fine_Tuning_Sentence_Classification_v2.ipynb#scrollTo=L9vxxTBsuL24
